@@ -1,7 +1,7 @@
 const CONFIG = {
-  // Replace with your SheetDB (or similar) JSON endpoint.
+ 
   apiEndpoint: "https://sheetdb.io/api/v1/pj7hvckq1123c",
-  // Replace with your Google Form URL for resource submissions.
+
   uploadFormUrl: "https://forms.gle/REPLACE_WITH_YOUR_FORM"
 };
 
